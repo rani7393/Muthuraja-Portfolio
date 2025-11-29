@@ -2,7 +2,7 @@
 
 I’m Muthu Raja, a Lead Data Analyst / BI Consultant with strong experience in:
 
-## 📊 Dashboarding & BI Tools – Power BI, Tableau, SSRS
+## 📊 Dashboarding & BI Tools – Databricks, Power BI, Tableau, SSRS
 
     🧠 Predictive Analytics & Statistical Modelling
     
@@ -37,8 +37,8 @@ I’m Muthu Raja, a Lead Data Analyst / BI Consultant with strong experience in:
     
     Customer Segmentation using ML
 
-Power BI RLS Global Access Project
+    Power BI RLS Global Access Project
 
-Data Quality & Preprocessing Scripts
+    Data Quality & Preprocessing Scripts
 
 Feel free to explore — every project includes code, documentation, and insights.
